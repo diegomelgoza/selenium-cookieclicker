@@ -3,7 +3,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.action_chains import ActionChains
 
-# add ublock origin chrome extension so no ads will appear
+# add ublock origin chrome extension so no ads will appear 
 chrome_options = Options()
 chrome_options.add_extension("C:\\Users\\Diego\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Extensions\\cjpalhdlnbpafiamejdnhcphjbkeiagm\\1.43.0_0.crx")
 
