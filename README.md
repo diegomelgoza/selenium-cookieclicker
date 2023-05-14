@@ -10,7 +10,7 @@ prioritze the buying most expensive item in the store.
 Currently upgrades cannot be bought, will update that later.
 
 ## Things accomplished with this project:
-* First time use of ActionChains.
+* First time use of ActionChains. 
 * Used selenium options to add the web extension U-block origins.
   * I was wanted to know if it was possible to add extensions to web automations. 
   After digging around google I learned how to download the extension as a crx file and add the path.
